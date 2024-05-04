@@ -63,12 +63,22 @@ It has applications in various fields, including robotics, artificial intelligen
 -tkinter (for GUI components)
 -termcolor (for colored terminal output)
 -PIL (Python Imaging Library, for image processing)
+
+
 *Download the Code:* Download the "rat-in-a-maze.py" file from the source.
+
+
 *Navigate to the Directory:* Open your command-line interface or terminal and navigate to the directory where the "rat-in-a-maze.py" file is located.
 
 *Enter Maze Dimensions and Positions:* Follow the prompts to enter the dimensions of the maze, as well as the positions of the rat (source) and cheese (destination). Make sure to enter valid positions within the maze boundaries.
+
+
 *Explore the Maze:* Once the program starts, it will display the maze grid along with the rat's position. The rat will navigate through the maze to find the cheese. You can observe the progress of the rat's movements visually on the grid.
+
+
 *Outcome:* Depending on the maze configuration and the rat's navigation, the program will either successfully find the cheese or indicate that the rat is unable to find the cheese within the maze.
+
+
 *Exit the Program:* After the outcome is displayed, you can close the program or follow any additional prompts.
 
 Following these steps will allow you to run the "Rat in a Maze" program and observe its behavior in navigating through the maze to find the cheese.
