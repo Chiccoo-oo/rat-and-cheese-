@@ -17,7 +17,7 @@ The maze may contain obstacles or blocked cells that the rat cannot pass through
 
 The rat can only move horizontally or vertically from one cell to another, not diagonally.
 
-The rat must find a valid path from the starting point to the destination without revisiting any cell or going out of bounds.
+
 
 
 **Approach:**
