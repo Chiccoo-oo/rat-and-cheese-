@@ -19,7 +19,7 @@ Stack(Linked list)
 > In this, stack is implemented using list(append and pop)
 
 **Traversal Method:**
-Depth First Search(DFS)
+Depth First Search(DFS):Depth-First Search (DFS) is a fundamental graph traversal algorithm used in computer science and graph theory. It systematically explores all vertices and edges of a graph, visiting as far as possible along each branch before backtracking.
 
 **Modules Used**
 
