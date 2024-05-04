@@ -7,7 +7,7 @@ from PIL import ImageTk, Image
 from tkinter import ttk, Canvas, Label
 def input_postion(n):
     try:
-        src = int(input("Enter the position of Rat: "))
+        src = int(input("Enter the position of Rat in maze : "))
     except:
         src = 0
 
