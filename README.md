@@ -12,6 +12,8 @@ The task is to find the cheese which is at the destination from the source.
 
 **Priority to move**
 right -> down -> left -> up
+
+
 **Data-Structure Used:**
 Stack(Linked list)
 > In this, stack is implemented using list(append and pop)
