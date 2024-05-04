@@ -8,6 +8,8 @@ This project provides a Python implementation to solve the Rat in a Maze problem
 There will be a maze of size nxn, with walls at random position with random shape. The source will be at the top left, and the destination will be at the bottom right.
 *Task*
 The task is to find the cheese which is at the destination from the source.
+
+
 **Priority to move**
 right -> down -> left -> up
 **Data-Structure Used:**
