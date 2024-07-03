@@ -1,5 +1,5 @@
 # Rat in a Maze problem 
-**Overview**
+**Overview**<b r>
 The Rat in a Maze problem is a classic puzzle where a rat needs to find its way from the starting point to the destination in a maze. 
 The rat can only move in four directions: up, down, left, and right, and it cannot move through walls or obstacles.
 This project provides a Python implementation to solve the Rat in a Maze problem using both backtracking and Depth-First Search (DFS) algorithms.
